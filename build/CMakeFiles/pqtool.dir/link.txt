@@ -1,0 +1,1 @@
+/ucrt64/bin/c++.exe -static -static-libgcc -static-libstdc++ CMakeFiles/pqtool.dir/src/pqc_core.cpp.o CMakeFiles/pqtool.dir/src/certificate.cpp.o CMakeFiles/pqtool.dir/src/main.cpp.o -o pqtool.exe -Wl,--out-implib,libpqtool.dll.a -Wl,--major-image-version,0,--minor-image-version,0

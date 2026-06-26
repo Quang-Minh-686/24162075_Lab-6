@@ -1,0 +1,8 @@
+/mnt/d/24162075.All6labs/lab 6/linux_build/CMakeFiles/pqtool.dir
+/mnt/d/24162075.All6labs/lab 6/linux_build/CMakeFiles/test.dir
+/mnt/d/24162075.All6labs/lab 6/linux_build/CMakeFiles/edit_cache.dir
+/mnt/d/24162075.All6labs/lab 6/linux_build/CMakeFiles/rebuild_cache.dir
+/mnt/d/24162075.All6labs/lab 6/linux_build/tests/CMakeFiles/pqtests.dir
+/mnt/d/24162075.All6labs/lab 6/linux_build/tests/CMakeFiles/test.dir
+/mnt/d/24162075.All6labs/lab 6/linux_build/tests/CMakeFiles/edit_cache.dir
+/mnt/d/24162075.All6labs/lab 6/linux_build/tests/CMakeFiles/rebuild_cache.dir

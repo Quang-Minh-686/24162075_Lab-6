@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/pqtests.dir/test_main.cpp.o CMakeFiles/pqtests.dir/__/src/pqc_core.cpp.o CMakeFiles/pqtests.dir/__/src/certificate.cpp.o -o ../bin/pqtests 

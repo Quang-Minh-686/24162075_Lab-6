@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/pqtool.dir/src/pqc_core.cpp.o CMakeFiles/pqtool.dir/src/certificate.cpp.o CMakeFiles/pqtool.dir/src/main.cpp.o -o pqtool 
